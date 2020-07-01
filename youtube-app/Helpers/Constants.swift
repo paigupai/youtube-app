@@ -16,4 +16,5 @@ struct Constants {
     static var VIDEOCELL_ID = "VideoCell"
     
     static var CELL_LABEL_DATE_FORMATTER = "EEEE, MMM d, yyyy"
+    static var YT_EMBED_URL = "https://www.youtube.com/embed/"
 }
